@@ -1,0 +1,10 @@
+{
+  	"name" : "Pre U240.3 Spawn Director",
+	"description" : "literally who the fuck asked for this change",
+	"author" : "nikita",
+	"contact" : "nikita_was_taken on discord",
+	"blt_version" : 2,
+	"hooks": [
+		{"hook_id": "lib/managers/group_ai_states/groupaistatebesiege", "script_path": "groupaistatebesiege.lua"}
+	]
+}
