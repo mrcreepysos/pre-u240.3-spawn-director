@@ -3,7 +3,12 @@
 	"description" : "literally who the fuck asked for this change",
 	"author" : "nikita",
 	"contact" : "nikita_was_taken on discord",
+	"version" : "1.0",
 	"blt_version" : 2,
+	"updates" : [{
+		"identifier" : "pre-u240-3-spawn-director",
+		"host" : { "meta" : "https://raw.githubusercontent.com/mrcreepysos/pre-u240.3-spawn-director/main/meta.json" }
+	}],
 	"hooks": [
 		{"hook_id": "lib/managers/group_ai_states/groupaistatebesiege", "script_path": "groupaistatebesiege.lua"}
 	]
